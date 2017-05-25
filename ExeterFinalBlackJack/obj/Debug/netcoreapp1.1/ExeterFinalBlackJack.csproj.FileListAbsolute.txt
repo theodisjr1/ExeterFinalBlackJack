@@ -1,0 +1,9 @@
+C:\Users\theod_000\Documents\Visual Studio 2017\Projects\ExeterFinalBlackJack\ExeterFinalBlackJack\bin\Debug\netcoreapp1.1\ExeterFinalBlackJack.deps.json
+C:\Users\theod_000\Documents\Visual Studio 2017\Projects\ExeterFinalBlackJack\ExeterFinalBlackJack\bin\Debug\netcoreapp1.1\ExeterFinalBlackJack.runtimeconfig.json
+C:\Users\theod_000\Documents\Visual Studio 2017\Projects\ExeterFinalBlackJack\ExeterFinalBlackJack\bin\Debug\netcoreapp1.1\ExeterFinalBlackJack.runtimeconfig.dev.json
+C:\Users\theod_000\Documents\Visual Studio 2017\Projects\ExeterFinalBlackJack\ExeterFinalBlackJack\bin\Debug\netcoreapp1.1\ExeterFinalBlackJack.dll
+C:\Users\theod_000\Documents\Visual Studio 2017\Projects\ExeterFinalBlackJack\ExeterFinalBlackJack\bin\Debug\netcoreapp1.1\ExeterFinalBlackJack.pdb
+C:\Users\theod_000\Documents\Visual Studio 2017\Projects\ExeterFinalBlackJack\ExeterFinalBlackJack\obj\Debug\netcoreapp1.1\ExeterFinalBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\theod_000\Documents\Visual Studio 2017\Projects\ExeterFinalBlackJack\ExeterFinalBlackJack\obj\Debug\netcoreapp1.1\ExeterFinalBlackJack.AssemblyInfo.cs
+C:\Users\theod_000\Documents\Visual Studio 2017\Projects\ExeterFinalBlackJack\ExeterFinalBlackJack\obj\Debug\netcoreapp1.1\ExeterFinalBlackJack.dll
+C:\Users\theod_000\Documents\Visual Studio 2017\Projects\ExeterFinalBlackJack\ExeterFinalBlackJack\obj\Debug\netcoreapp1.1\ExeterFinalBlackJack.pdb
